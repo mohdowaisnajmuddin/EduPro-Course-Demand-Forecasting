@@ -1,12 +1,15 @@
 
 from pathlib import Path
+import os
 
 import numpy as np
 import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data" / "raw"
+DATA = ROOT / "data" / (
+    "demo" if os.getenv("EDUPRO_DEMO_MODE") == "1" else "raw"
+)
 
 
 # ---------------------------------------------------------

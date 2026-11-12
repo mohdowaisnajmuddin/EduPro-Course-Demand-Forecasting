@@ -1,0 +1,31 @@
+CourseID,CourseName,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating
+DEMO-C001,Synthetic Programming Course 1,Programming,Paid,Beginner,174,13,3.6
+DEMO-C002,Synthetic Data Science Course 2,Data Science,Paid,Intermediate,249,18,3.7
+DEMO-C003,Synthetic Business Course 3,Business,Paid,Advanced,324,23,3.8
+DEMO-C004,Synthetic Design Course 4,Design,Paid,Beginner,99,28,3.9
+DEMO-C005,Synthetic Marketing Course 5,Marketing,Free,Intermediate,0,33,4.0
+DEMO-C006,Synthetic Technology Course 6,Technology,Paid,Advanced,249,38,4.1
+DEMO-C007,Synthetic Programming Course 7,Programming,Paid,Beginner,324,43,4.2
+DEMO-C008,Synthetic Data Science Course 8,Data Science,Paid,Intermediate,99,8,4.3
+DEMO-C009,Synthetic Business Course 9,Business,Paid,Advanced,174,13,4.4
+DEMO-C010,Synthetic Design Course 10,Design,Free,Beginner,0,18,4.5
+DEMO-C011,Synthetic Marketing Course 11,Marketing,Paid,Intermediate,324,23,4.6
+DEMO-C012,Synthetic Technology Course 12,Technology,Paid,Advanced,99,28,4.7
+DEMO-C013,Synthetic Programming Course 13,Programming,Paid,Beginner,174,33,4.8
+DEMO-C014,Synthetic Data Science Course 14,Data Science,Paid,Intermediate,249,38,3.5
+DEMO-C015,Synthetic Business Course 15,Business,Free,Advanced,0,43,3.6
+DEMO-C016,Synthetic Design Course 16,Design,Paid,Beginner,99,8,3.7
+DEMO-C017,Synthetic Marketing Course 17,Marketing,Paid,Intermediate,174,13,3.8
+DEMO-C018,Synthetic Technology Course 18,Technology,Paid,Advanced,249,18,3.9
+DEMO-C019,Synthetic Programming Course 19,Programming,Paid,Beginner,324,23,4.0
+DEMO-C020,Synthetic Data Science Course 20,Data Science,Free,Intermediate,0,28,4.1
+DEMO-C021,Synthetic Business Course 21,Business,Paid,Advanced,174,33,4.2
+DEMO-C022,Synthetic Design Course 22,Design,Paid,Beginner,249,38,4.3
+DEMO-C023,Synthetic Marketing Course 23,Marketing,Paid,Intermediate,324,43,4.4
+DEMO-C024,Synthetic Technology Course 24,Technology,Paid,Advanced,99,8,4.5
+DEMO-C025,Synthetic Programming Course 25,Programming,Free,Beginner,0,13,4.6
+DEMO-C026,Synthetic Data Science Course 26,Data Science,Paid,Intermediate,249,18,4.7
+DEMO-C027,Synthetic Business Course 27,Business,Paid,Advanced,324,23,4.8
+DEMO-C028,Synthetic Design Course 28,Design,Paid,Beginner,99,28,3.5
+DEMO-C029,Synthetic Marketing Course 29,Marketing,Paid,Intermediate,174,33,3.6
+DEMO-C030,Synthetic Technology Course 30,Technology,Free,Advanced,0,38,3.7

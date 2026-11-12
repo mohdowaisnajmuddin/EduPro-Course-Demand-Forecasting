@@ -1,4 +1,5 @@
 
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -54,6 +55,14 @@ st.caption(
     "Historical analytics, machine-learning forecasts "
     "and course planning scenarios"
 )
+
+if os.getenv("EDUPRO_DEMO_MODE") == "1":
+    st.info(
+        "SYNTHETIC DATA DEMO: This public dashboard uses "
+        "fictional course, teacher, and transaction records. "
+        "Its metrics and forecasts are illustrative and do not "
+        "represent the original internship dataset."
+    )
 
 try:
     bundle = get_bundle()
