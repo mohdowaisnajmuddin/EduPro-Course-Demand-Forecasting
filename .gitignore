@@ -1,0 +1,40 @@
+﻿# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Local logs
+*.log
+streamlit_log.txt
+
+# Backup files and folders
+backup_before_upgrade_*/
+app_before_*.py
+compare_revenue_methods_before_*.py
+src/modeling_before_*.py
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Internship-provided datasets - do not publish without permission
+/data/raw/*.csv
+
+# Course-level internship-derived outputs
+/reports/forecast_next_3_months.csv
+/reports/revenue_test_predictions.csv
+
+# Dataset profiling metadata - pending review
+/reports/source_data_profile.json
