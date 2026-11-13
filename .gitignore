@@ -38,3 +38,7 @@ Thumbs.db
 
 # Dataset profiling metadata - pending review
 /reports/source_data_profile.json
+
+/data/deployment/
+
+/data/public/

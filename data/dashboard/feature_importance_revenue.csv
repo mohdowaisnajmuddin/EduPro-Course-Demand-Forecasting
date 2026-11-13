@@ -1,0 +1,40 @@
+Feature,Importance
+num__CoursePrice,1812.9983672631377
+cat__PriceBand_High,357.48461256327755
+cat__PriceBand_Low,208.97438459661623
+cat__CourseCategory_Digital Marketing,188.4814419689275
+cat__CourseCategory_Data Science,136.14749855960804
+cat__CourseType_Paid,134.9478004767895
+cat__PriceBand_Free,134.94780047675482
+cat__CourseType_Free,134.9478004766804
+cat__CourseCategory_Project Management,122.3171160698137
+cat__CourseCategory_Business,105.78126254376433
+num__Quarter,88.68112389278119
+num__EnrollLag2,74.11635936141538
+cat__CourseLevel_Beginner,72.72947846607521
+cat__CourseLevel_Intermediate,64.87775560409145
+cat__CourseCategory_Artificial Intelligence,51.16244780574902
+cat__CourseCategory_Cybersecurity,50.210698963049694
+cat__RatingTier_Good,36.31365410622033
+cat__DurationBucket_Medium,31.54104119104879
+num__EnrollLag1,31.265422983863896
+cat__DurationBucket_Short,29.437584540292672
+num__MonthNumber,28.884342613973008
+num__TimeIndex,28.884342613971786
+num__CourseDuration,27.913829620645995
+cat__RatingTier_Low,27.59219241016995
+cat__CourseCategory_Design,27.42672740096022
+num__CourseRating,25.625760286972778
+cat__CourseCategory_Programming,22.382403128979018
+cat__RatingTier_Moderate,22.025509557525492
+num__MonthSin,19.399653755414715
+num__MonthCos,17.951121951503154
+cat__PriceBand_Medium,13.562427489884207
+cat__RatingTier_Excellent,13.304047862043216
+cat__CourseCategory_Finance,12.618143940010752
+cat__CourseCategory_Machine Learning,11.833345008336805
+cat__CourseCategory_Web Development,10.223782159216602
+cat__CourseCategory_Marketing,10.093113200870999
+cat__CourseLevel_Advanced,7.851722861879845
+num__EnrollRolling3,2.401108265107729
+cat__DurationBucket_Long,2.1034566508223027
